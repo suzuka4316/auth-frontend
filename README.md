@@ -1,9 +1,18 @@
-# Getting Started with Create React App
-
+# auth-frontend
+This is a frontend repo of a full stack authentication app. The backend repo is [here](https://github.com/suzuka4316/auth-backend).\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## APIs
+### POST `/signup`
+![image](https://user-images.githubusercontent.com/67994527/177034774-3ed9f97b-5d59-48d3-af90-9205e54afb0b.png)
+### POST `/login`
+![image](https://user-images.githubusercontent.com/67994527/177034812-966fc5cb-1f64-4375-8894-aa02780354c6.png)
+### GET  `/user`
+![image](https://user-images.githubusercontent.com/67994527/177034864-f05d3b11-1b97-4704-b8e2-521696129c35.png)
+### POST `/logout`
+![image](https://user-images.githubusercontent.com/67994527/177034882-de4aa4eb-ff1f-4e41-b1e6-fe4d0ff1b1c8.png)
 
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
